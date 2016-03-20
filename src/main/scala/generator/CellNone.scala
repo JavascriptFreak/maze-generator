@@ -1,6 +1,6 @@
 package generator
 
-/** Class description
-  *
-  */
+/**
+ * Represents an empty cell
+ */
 case class CellNone() extends CellDef

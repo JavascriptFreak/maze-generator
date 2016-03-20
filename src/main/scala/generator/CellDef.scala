@@ -1,6 +1,6 @@
 package generator
 
-/** Class description
-  *
-  */
+/**
+ * Defines a default cell type
+ */
 trait CellDef
